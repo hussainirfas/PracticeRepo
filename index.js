@@ -14,3 +14,4 @@ req.open("GET", "https://www.google.com/search?q=test");
 
 // Step 3: send()
 req.send();
+
